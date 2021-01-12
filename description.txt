@@ -1,2 +1,2 @@
-all_luci_app.config
-20210111-2055
+yearning-x86-210111-2240.config
+20210112-1512
